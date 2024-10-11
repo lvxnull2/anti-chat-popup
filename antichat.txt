@@ -33,6 +33,9 @@
 ||widget.kommunicate.io^$script
 ||widget.replain.cc^$script
 ||sprintbot.ai^$3p,script
+||gorgias.chat^$script
+||cdn.gladly.qa^$script
+||cdn.gladly.com^$script
 
 ! https://mibew.org/
 /js/compiled/chat_popup.js^$script
