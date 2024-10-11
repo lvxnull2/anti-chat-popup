@@ -26,6 +26,7 @@
 ||lpsnmedia.net^$script
 ||proprofschat.com/api^$script
 ||purechat.com^$script
+||salesiq.zohopublic.com^$script
 ||sitespeak.ai^$script
 ||smartsuppchat.com^$script
 ||spot.im^$3p,script
