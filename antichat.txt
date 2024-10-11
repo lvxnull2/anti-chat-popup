@@ -32,6 +32,7 @@
 ||spot.im^$3p,script
 ||sprintbot.ai^$3p,script
 ||static.olark.com^$script
+||static.zdassets.com^$script
 ||tidiochat.com^$script
 ||urlslab.com^$3p,script
 ||userlike-cdn-widgets^$3p,script
