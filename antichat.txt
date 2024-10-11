@@ -1,5 +1,5 @@
 [Adblock Plus 3.5]
-! Title: Anti Chat Popup list
+! Title: Anti Chat Popup List
 ! Expires: 5 days
 ! Homepage: https://github.com/lvxnull2/anti-chat-popup
 ! License: https://raw.githubusercontent.com/lvxnull2/anti-chat-popup/refs/heads/main/LICENSE
