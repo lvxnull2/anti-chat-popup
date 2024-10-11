@@ -35,6 +35,7 @@
 ||tidiochat.com^$script
 ||urlslab.com^$3p,script
 ||userlike-cdn-widgets^$3p,script
+||widget.berryapp.io^$script
 ||widget.kommunicate.io^$script
 ||widget.replain.cc^$script
 ||widget.user.com^$script
