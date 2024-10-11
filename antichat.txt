@@ -23,6 +23,7 @@
 ||jakweb.ch^$script
 ||ladesk.com^$script
 ||limetalk.com^$script
+||lpsnmedia.net^$script
 ||proprofschat.com/api^$script
 ||purechat.com^$script
 ||sitespeak.ai^$script
