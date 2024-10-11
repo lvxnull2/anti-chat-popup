@@ -4,38 +4,38 @@
 ! Homepage: https://github.com/lvxnull2/anti-chat-popup
 ! License: https://raw.githubusercontent.com/lvxnull2/anti-chat-popup/refs/heads/main/LICENSE
 
-||spot.im^$3p,script
-||ladesk.com^$script
-||intercom.io^$3p,script
-||embed.tawk.to^$script
-||userlike-cdn-widgets^$3p,script
-||embed.helpcrunch.com^$script
-||call.chatra.io^$script
 ||app.chatwoot.com^$script
-||chat-assets.frontapp.com^$script
-||urlslab.com^$3p,script
-||smartsuppchat.com^$script
-||proprofschat.com/api^$script
-||cdn.smooch.io^$script
-||jakweb.ch^$script
-||fw-cdn.com^$script
-||tidiochat.com^$script
-||sitespeak.ai^$script
-||crisp.chat^$script
-||limetalk.com^$script
-||cdn.openwidget.com^$script
-||widget.user.com^$script
-||purechat.com^$script
-||code.xon.chat^$script
-||static.olark.com^$script
 ||app.consolto.com^$script
+||call.chatra.io^$script
+||cdn.gladly.com^$script
+||cdn.gladly.qa^$script
+||cdn.openwidget.com^$script
+||cdn.smooch.io^$script
+||chat-assets.frontapp.com^$script
+||code.xon.chat^$script
+||crisp.chat^$script
+||embed.helpcrunch.com^$script
+||embed.tawk.to^$script
+||fw-cdn.com^$script
 ||getsitecontrol.com^$script
+||gorgias.chat^$script
+||intercom.io^$3p,script
+||jakweb.ch^$script
+||ladesk.com^$script
+||limetalk.com^$script
+||proprofschat.com/api^$script
+||purechat.com^$script
+||sitespeak.ai^$script
+||smartsuppchat.com^$script
+||spot.im^$3p,script
+||sprintbot.ai^$3p,script
+||static.olark.com^$script
+||tidiochat.com^$script
+||urlslab.com^$3p,script
+||userlike-cdn-widgets^$3p,script
 ||widget.kommunicate.io^$script
 ||widget.replain.cc^$script
-||sprintbot.ai^$3p,script
-||gorgias.chat^$script
-||cdn.gladly.qa^$script
-||cdn.gladly.com^$script
+||widget.user.com^$script
 
 ! https://mibew.org/
 /js/compiled/chat_popup.js^$script
