@@ -18,6 +18,7 @@
 ||embed.tawk.to^$script
 ||fw-cdn.com^$script
 ||getsitecontrol.com^$script
+||groovehq.com^$3p
 ||gorgias.chat^$script
 ||intercom.io^$3p,script
 ||jakweb.ch^$script
