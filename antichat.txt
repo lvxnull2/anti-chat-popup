@@ -22,7 +22,7 @@
 ||gorgias.chat^$script
 ||groovehq.com^$script
 ||inteliwise.com^$script
-||intercom.io^$3p,script
+||intercom.io^$script
 ||jakweb.ch^$script
 ||ladesk.com^$script
 ||limetalk.com^$script
@@ -32,18 +32,14 @@
 ||salesiq.zohopublic.com^$script
 ||sitespeak.ai^$script
 ||smartsuppchat.com^$script
-||spot.im^$3p,script
-||sprintbot.ai^$3p,script
+||spot.im^$script
+||sprintbot.ai^$script
 ||static.olark.com^$script
 ||static.zdassets.com^$script
 ||tidiochat.com^$script
-||urlslab.com^$3p,script
+||urlslab.com^$script
 ||userlike-cdn-widgets^$script
 ||widget.berryapp.io^$script
 ||widget.kommunicate.io^$script
 ||widget.replain.cc^$script
 ||widget.user.com^$script
-
-! https://mibew.org/
-/js/compiled/chat_popup.js^$script
-/js/compiled/widget.js^$script
