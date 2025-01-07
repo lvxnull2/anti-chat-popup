@@ -1,6 +1,7 @@
 # Anti Chat Popup
 
-This adblock list blocks chat popups on websites.
+This adblock/ublock origin list blocks javascript "live chat" software on
+websites.
 
 # Why
 
