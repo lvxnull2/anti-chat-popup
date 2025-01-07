@@ -11,6 +11,7 @@
 ||cdn.gladly.qa^$script
 ||cdn.openwidget.com^$script
 ||cdn.smooch.io^$script
+||cdn.xiaoman.cn^$script
 ||chat-assets.frontapp.com^$script
 ||code.xon.chat^$script
 ||crisp.chat^$script
@@ -18,8 +19,9 @@
 ||embed.tawk.to^$script
 ||fw-cdn.com^$script
 ||getsitecontrol.com^$script
-||groovehq.com^$3p
 ||gorgias.chat^$script
+||groovehq.com^$script
+||inteliwise.com^$script
 ||intercom.io^$3p,script
 ||jakweb.ch^$script
 ||ladesk.com^$script
@@ -36,7 +38,7 @@
 ||static.zdassets.com^$script
 ||tidiochat.com^$script
 ||urlslab.com^$3p,script
-||userlike-cdn-widgets^$3p,script
+||userlike-cdn-widgets^$script
 ||widget.berryapp.io^$script
 ||widget.kommunicate.io^$script
 ||widget.replain.cc^$script
